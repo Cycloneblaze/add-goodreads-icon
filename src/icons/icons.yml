@@ -7789,7 +7789,15 @@ icons:
     categories:
       - Brand Icons
 
-
+  - name:       Goodreads
+    id:         goodreads
+    unicode:    f35f
+    created:    1.2
+    url:        goodreads.com
+    aliases:
+      - goodreads-g
+    categories:
+      - Brand Icons
 
 
 
